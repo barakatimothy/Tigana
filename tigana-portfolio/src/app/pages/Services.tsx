@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function Services() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900 py-16 px-6">
